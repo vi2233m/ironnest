@@ -130,3 +130,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// Deploy trigger: domain updated to ironnestwiki.site
