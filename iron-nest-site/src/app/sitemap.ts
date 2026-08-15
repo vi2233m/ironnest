@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = "https://ironnest.wiki";
+const BASE_URL = "https://ironnestwiki.site";
 const LAST_UPDATED = new Date("2026-08-13");
 
 const staticRoutes = [

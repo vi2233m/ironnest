@@ -21,7 +21,7 @@ const shareTechMono = Share_Tech_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ironnest.wiki"),
+  metadataBase: new URL("https://ironnestwiki.site"),
   title: {
     default: "IRON NEST Wiki — Guides, Calculator & Shell Tier List",
     template: "%s — IRON NEST Wiki",
@@ -71,7 +71,7 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "IRON NEST Wiki — Guides, Calculator & Shells",
-    url: "https://ironnest.wiki",
+    url: "https://ironnestwiki.site",
     description:
       "Complete IRON NEST: Heavy Turret Simulator resource — ballistic calculator, shell tier list, full walkthrough, gold medal guides & more.",
     about: {

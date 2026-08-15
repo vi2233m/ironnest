@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://ironnest.wiki/sitemap.xml",
+    sitemap: "https://ironnestwiki.site/sitemap.xml",
   };
 }
